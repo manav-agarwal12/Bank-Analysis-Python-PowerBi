@@ -42,6 +42,24 @@ It uncovers **customer behavior patterns**, **deposits vs. savings trends**, and
 
 ---
 
+## 🔍 EDA Highlights (BankEDA.ipynb)
+- Data cleaning, handling missing values & duplicates  
+- Statistical summaries and feature exploration  
+- Visualizations: distributions, correlations, boxplots, heatmaps  
+- Key Insights:  
+  - Strong link between **Bank Deposits** & **Savings Accounts**  
+  - **Income & Age** positively correlated with balances and loans  
+  - **Property ownership** has weak correlation with banking balances  
+  - **Business lending** shows unique patterns, separate from personal banking  
+
+## 📈 Power BI Dashboard (Banking Dashboard.pbix)
+- Interactive dashboard to track:  
+  - Deposits vs. Savings trends  
+  - Loan and Lending patterns  
+  - Customer demographics and segmentation  
+  - Correlation-based insights from EDA  
+
+
 ## 📊 Dashboard Preview  
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/31ada3cc-ac4b-4daa-936f-f13b889e4e49" />
 <img width="700" height="709" alt="image" src="https://github.com/user-attachments/assets/b207fd1c-4c91-4aa6-a38b-a2091b0b9da9" />
