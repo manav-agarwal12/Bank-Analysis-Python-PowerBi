@@ -1,4 +1,4 @@
-# 🏦 Banking Analytics Project
+# 🏦 Banking Analytsis
 
 ## 📊 Project Overview
 This project delivers an **end-to-end analytics solution** for a retail banking dataset by combining **Exploratory Data Analysis (EDA)** in Python with an **interactive Power BI dashboard**.  
