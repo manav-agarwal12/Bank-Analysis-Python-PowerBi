@@ -71,7 +71,7 @@ It uncovers **customer behavior patterns**, **deposits vs. savings trends**, and
 ## 🔹 Author & Contact  
 **Author**: Manav Agarwal  
 📧 **Email**: *agarwalmanav1202@gmail.com*  
-🔗 **LinkedIn**: [linkedin.com/in/agarwalmanav120105](#)  
+🔗 **LinkedIn**: [www.linkedin.com/in/manav-agarwal-363420384](#)  
 💻 **GitHub**: [github.com/manav-agarwal12](https://github.com/manav-agarwal12)
 
 ---
